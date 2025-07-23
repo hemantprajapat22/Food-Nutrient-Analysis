@@ -8,7 +8,7 @@ This project analyzes food nutrient data provided by the **US Department of Agri
 
 - **Source**: [USDA FoodData Central](https://fdc.nal.usda.gov/)
 - **Format**: JSON
-- **Shared by**: Ashley Williams
+- **Shared by**: Hemu
 - **Contents**: Nutritional information of thousands of food items including proteins, fats, vitamins, minerals, and more.
 
 ---
